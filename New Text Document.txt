@@ -1,0 +1,8 @@
+My first Git Hub file
+git init
+git status
+git add .
+git commit -m "First commit"
+git branch -M main
+git remote add origin http://github.com/talha427/sample.git
+git push -u origin main
